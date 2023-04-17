@@ -16,17 +16,17 @@ In case of any questions or comments, do not hesitate to contact me:  atefe@hi.i
 <br/>
 
 ## Codes Description:  
--   <code>H-GMM/</code>
-    -   <code>H_GMM_Darzi19.m</code> 
+-   <code>H-GMM/</code> 
+    -   <code>H_GMM_Darzi19.m</code> a function that implements the GMM to predict horizontal PGA and spectral accelerations 
     -   <code>text files</code> period-dependent coefficients	
 -   <code>V-GMM/</code>
-    -   <code>V_GMM_ZD19.m</code> 
+    -   <code>V_GMM_ZD19.m</code>  a function that implements the GMM to predict vertical PGA and spectral accelerations
     -   <code>text files</code> period-dependent coefficients	
 -   <code>V2H-GMM/</code>
-    -   <code>V2H_GMM_ZD19.m</code> 
+    -   <code>V2H_GMM_ZD19.m</code> a function that implements the GMM to predict vertical-to-horizontal ratio of PGA and spectral accelerations
     -   <code>text files</code> period-dependent coefficients	
 -   <code>visualization/</code>
-    -   <code>plot_GMMs.m</code> plot the demonstrate H, V, and V2H GMMs
+    -   <code>plot_GMMs.m</code> plot to demonstrate H, V, and V2H GMMs
     -   <code>figures.jpg</code> output spectral accerelation predections derived from H, V, and V2H GMMs 	
     
 
